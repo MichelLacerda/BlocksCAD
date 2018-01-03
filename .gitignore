@@ -1,7 +1,11 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# JS
 
 auth.js
-
-
 closure-library/*
-
 node_modules/*

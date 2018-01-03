@@ -10,7 +10,8 @@ var BSUtils = BSUtils || {};
 BSUtils.LANGUAGE_NAME = {
   'en': 'English',
   'de': 'Deutsch',
-  'fr': 'Français'
+  'fr': 'Français',
+  'pt-br': 'Português Brasileiro',
   // 'es': 'Español'
 };
 // BSUtils.LANGUAGE_NAME = {
